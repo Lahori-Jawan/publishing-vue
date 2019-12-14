@@ -1,3 +1,5 @@
+### Read the blog [post](https://nasirkhan.dev/blog/publishing-vue-to-npm)
+
 # Distribute Vue components with community
 Repo about publishing vue components to npm
 
